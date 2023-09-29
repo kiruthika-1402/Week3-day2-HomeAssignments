@@ -16,8 +16,11 @@ public class Anagram {
 		
 		// Print the length of the two strings are equal 
 		if (a==b) {
+			
 			System.out.println("The length of the two strings are equal");
-		} else {
+		} 
+		else {
+			
             System.out.println("The length of the two strings are not equal");
 		}
 		// Convert the two strings into array
